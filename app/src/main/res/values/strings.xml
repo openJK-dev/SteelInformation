@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">资源回收行情</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
